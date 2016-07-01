@@ -1,9 +1,9 @@
 /*
- * marketo_music.cpp
+ * music_manager.cpp
  *
  *  Created on: Mar 22, 2015
  *      Author: Preeti Krishnan
- *      Description: Marketo Music is a bare bones music playlist manager. MM allows user to create and
+ *      Description: Music Manager is a bare bones music playlist manager. MM allows user to create and
  *      manage multiple playlists by reusing central store of songs
  */
 
